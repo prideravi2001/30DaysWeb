@@ -2,3 +2,8 @@
 This is line 3!
 
 Change 1 
+git checkout -b feature1
+git add .
+git status
+git commit -m "Change 1"
+git push -u origin feature1
