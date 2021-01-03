@@ -1,0 +1,41 @@
+
+.ContainerOne{
+    height: 300px;
+    padding: 100px ;
+    color: whitesmoke;
+    background-color: black;
+}
+.contactMe{
+    color: whitesmoke;
+    background-color:indigo;
+    padding: 10px;
+}
+.ContainerTwo{
+    padding:60px;
+}
+
+.skillsIcon{
+    
+    margin: 20px 25%;
+    font-size: 7em;
+}
+.vedio-control{
+    display: flex;
+}
+
+
+.contactForm,.table {
+    padding: 70px ;
+    /* margin: 50px 100px; */
+}
+.footer {
+    font-size: bold;
+    padding: 5px;
+    color: ivory;
+    background-color: #000;
+}
+.footer a{
+
+    color: ivory;
+    text-decoration: none;
+}
