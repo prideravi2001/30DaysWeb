@@ -1,6 +1,13 @@
 ## Header 3
 This is line 3!
 ```
+//Main branch
+git add .
+git commit -m "name for commit"
+git status
+git push origin main
+```
+```
 //Master change
 Change 1,
 git checkout -b feature1,
