@@ -1,6 +1,10 @@
 ## Header 3
 This is line 3!
 ```
+To Conform the email to push correctly 
+git config user.email "abc@gmail.com"
+```
+```
 //Main branch
 git add .
 git commit -m "name for commit"
