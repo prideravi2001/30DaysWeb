@@ -12,6 +12,10 @@ git status
 git push origin main
 ```
 ```
+//Change the branch
+git checkout feature
+```
+```
 //Master change
 Change 1,
 git checkout -b feature1,
